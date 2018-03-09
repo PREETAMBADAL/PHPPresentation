@@ -21,6 +21,7 @@ Read more about PHPPresentation:
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Getting started](#getting-started)
+The end
 - [Contributing](#contributing)
 - [Developers' Documentation](http://phppresentation.readthedocs.org/)
 - [API Documentation](http://phpoffice.github.io/PHPPresentation/docs/master/)
